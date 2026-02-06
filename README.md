@@ -19,7 +19,6 @@
 
 ```yaml
 name: Abhishek Badak
-location: Waluj, Aurangabad, Maharashtra 🇮🇳
 role: Aspiring DevOps Engineer
 passion: Building scalable, reliable, and automated systems
 education: Bachelor of Applied Science (BSc) - MGM University
@@ -201,23 +200,9 @@ motto: "Automate everything, optimize workflows, drive collaboration 🚀"
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekBadak123&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%"/>
-</div>
-
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AbhishekBadak123&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" width="60%"/>
-</div>
-
----
-
-## 💡 Random Dev Quote
+##  Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
